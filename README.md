@@ -12,6 +12,58 @@
   <h1>
   Wagwan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 
 </div>
+
+---
+
+### 👨🏾‍💻 About:
+
+Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and sharing what he learns
+- :telescope:  Builder and lifelong learner. Interested in web APIs, microservices, distributed systems and machine learning.
+
+- :seedling: Technical writing. See some of my writing [here](https://www.twilio.com/blog/author/akiura) and [here](https://buddy.works/tutorials/author/alex-kiura).
+
+- ☕️ Not trying to reduce my coffee intake.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kiura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akiura/)
+
+---
+### 🛠 &nbsp;Languages and Technologies :
+
+#### Languages
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+
+
+</p>
+
+**Technologies**
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</p>
+
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrkiura&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkiura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Blog Posts : 
+- [Structural Pattern Matching In Python](https://buddy.works/tutorials/structural-pattern-matching-In-python)
+- [Build a Drop-In Audio Chat Application Using Django, React and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
+- [Build a GraphQL API with Subscriptions using Python, Asyncio and Ariadne](https://www.twilio.com/blog/graphql-api-subscriptions-python-asyncio-ariadne))
+- [Build a WhatsApp Weather Bot with Python, OpenWeather and Twilio](https://www.twilio.com/blog/whatsapp-weather-bot-python-openweather-twilio)
+
+
