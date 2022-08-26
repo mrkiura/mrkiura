@@ -27,7 +27,7 @@ Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and s
 
 - ☕️ Not trying to reduce my coffee intake.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kiura-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akiura/)
+- :mailbox:How to reach me: kiuraalex@gmail.com
 
 ---
 ### 🛠 &nbsp;Languages and Technologies :
