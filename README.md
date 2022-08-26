@@ -53,13 +53,6 @@ Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and s
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrkiura&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkiura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### ✍️ Blog Posts : 
 - [Structural Pattern Matching In Python](https://buddy.works/tutorials/structural-pattern-matching-In-python)
 - [Build a Drop-In Audio Chat Application Using Django, React and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
