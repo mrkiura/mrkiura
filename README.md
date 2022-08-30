@@ -54,8 +54,9 @@ Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and s
 ---
 
 ### ✍️ Blog Posts : 
+- [Build a Drop-In Audio Chat Application Using React, Django and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
 - [Structural Pattern Matching In Python](https://buddy.works/tutorials/structural-pattern-matching-In-python)
-- [Build a Drop-In Audio Chat Application Using Django, React and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
+
 - [Build a GraphQL API with Subscriptions using Python, Asyncio and Ariadne](https://www.twilio.com/blog/graphql-api-subscriptions-python-asyncio-ariadne))
 - [Build a WhatsApp Weather Bot with Python, OpenWeather and Twilio](https://www.twilio.com/blog/whatsapp-weather-bot-python-openweather-twilio)
 
