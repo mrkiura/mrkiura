@@ -27,7 +27,7 @@ Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and s
 
 - ☕️ Not trying to reduce my coffee intake.
 
-- :mailbox:How to reach me: kiuraalex@gmail.com
+- :mailbox:How to reach me: alex@mrkiura.dev
 
 ---
 ### 🛠 &nbsp;Languages and Technologies :
