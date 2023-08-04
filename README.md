@@ -23,7 +23,7 @@
 Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and sharing what he learns
 - :telescope:  Builder and lifelong learner. Interested in web APIs, microservices, distributed systems and machine learning.
 
-- :seedling: Technical writing. See some of my writing [here](https://www.twilio.com/blog/author/akiura) and [here](https://buddy.works/tutorials/author/alex-kiura).
+- :seedling: Technical writing. See some of my writing [here](https://www.mrkiura.dev/articles), [here](https://www.twilio.com/blog/author/akiura) and [here](https://buddy.works/tutorials/author/alex-kiura).
 
 - ☕️ Not trying to reduce my coffee intake.
 
