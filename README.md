@@ -18,14 +18,14 @@
 
 ### 👨🏾‍💻 About:
 
-Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and sharing what he learns
+Enjoys crafting solutions and sharing what he learns
 - :telescope:  Builder and lifelong learner. Interested in web APIs, microservices, distributed systems and machine learning.
 
 - :seedling: Technical writing. See some of my writing [here](https://www.mrkiura.dev/articles), [here](https://www.twilio.com/blog/author/akiura) and [here](https://buddy.works/tutorials/author/alex-kiura).
 
 - ☕️ Not trying to reduce my coffee intake.
 
-- :mailbox:How to reach me: kiuraalex@gmail.com
+- :mailbox: How to reach me: kiuraalex@gmail.com
 
 ---
 ### 🛠 &nbsp;Languages and Technologies :
@@ -37,12 +37,6 @@ Software Entwickler domiciled in Nairobi, Kenya. Enjoys crafting solutions and s
 
 
 
-</p>
-
-**Technologies**
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
 
