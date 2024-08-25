@@ -40,7 +40,7 @@
 
 ### ✍️ Blog Posts : 
 - [Understanding iteration in Python](https://www.mrkiura.dev/articles/iteration)
-- [Errors and Exceptions in Python]([http://localhost:3000/articles/exceptions](https://www.mrkiura.dev/articles/exceptions)
+- [Errors and Exceptions in Python](https://www.mrkiura.dev/articles/exceptions)
 - [Build a Drop-In Audio Chat Application Using React, Django and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
 - [Structural Pattern Matching In Python](https://buddy.works/tutorials/structural-pattern-matching-In-python)
 
