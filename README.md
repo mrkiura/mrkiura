@@ -38,7 +38,7 @@
 
 ---
 
-### ✍️ Blog Posts : 
+### ✍️ Blog Posts written by me: 
 - [Befriending the itertools module for efficient iteration in Python](https://www.mrkiura.dev/articles/itertools)
 - [Understanding iteration in Python](https://www.mrkiura.dev/articles/iteration)
 - [Errors and Exceptions in Python](https://www.mrkiura.dev/articles/exceptions)
