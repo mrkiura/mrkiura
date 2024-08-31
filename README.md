@@ -44,7 +44,7 @@
 - [Errors and Exceptions in Python](https://www.mrkiura.dev/articles/exceptions)
 - [Build a Drop-In Audio Chat Application Using React, Django and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
 - [Structural Pattern Matching In Python](https://buddy.works/tutorials/structural-pattern-matching-In-python)
-
+- [Build a GraphQL API with Python, Flask and Ariadne](https://www.twilio.com/en-us/blog/graphql-api-python-flask-ariadne)
 - [Build a GraphQL API with Subscriptions using Python, Asyncio and Ariadne](https://www.twilio.com/blog/graphql-api-subscriptions-python-asyncio-ariadne))
 - [Build a WhatsApp Weather Bot with Python, OpenWeather and Twilio](https://www.twilio.com/blog/whatsapp-weather-bot-python-openweather-twilio)
 
