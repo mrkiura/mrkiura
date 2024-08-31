@@ -39,6 +39,7 @@
 ---
 
 ### ✍️ Blog Posts : 
+- [Befriending the itertools module for efficient iteration in Python](https://www.mrkiura.dev/articles/itertools)
 - [Understanding iteration in Python](https://www.mrkiura.dev/articles/iteration)
 - [Errors and Exceptions in Python](https://www.mrkiura.dev/articles/exceptions)
 - [Build a Drop-In Audio Chat Application Using React, Django and Twilio Programmable Voice](https://www.twilio.com/blog/drop-in-audio-chat-django-react-twilio-programmable-voice))
