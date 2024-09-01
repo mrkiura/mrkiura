@@ -17,22 +17,17 @@
 
 - :telescope:  Builder and lifelong learner. Interested in web APIs, databases, distributed systems and machine learning.
 
-- :seedling: Technical writing. See some of my writing [here](https://www.mrkiura.dev/articles), [here](https://www.twilio.com/blog/author/akiura) and [here](https://buddy.works/tutorials/author/alex-kiura).
-
 - ☕️ Not trying to reduce my coffee intake.
 
 - :mailbox: How to reach me: kiuraalex@gmail.com
 
 ---
-### 🛠 &nbsp;Languages and Technologies :
+### 🛠 &nbsp;Languages:
 
 #### Languages
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
-
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </p>
 
 
